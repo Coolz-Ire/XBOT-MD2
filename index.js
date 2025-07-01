@@ -163,8 +163,8 @@ let nexusLft = await getBuffer(ppuser)
                 if (anu.action == 'add') {
                 const nexusbuffer = await getBuffer(ppuser)
                 let nexusName = num
-                const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
+                const xtime = moment.tz('Africa/Nigeria').format('HH:mm:ss')
+	            const xdate = moment.tz('Africa/Nigeria').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 let nexusbody = `\n╭──────༺♡༻──────╮
@@ -203,8 +203,8 @@ mediaUrl: 'https://youtu.be/laQABrPDlFw'
 NEXUS.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 } else if (anu.action == 'remove') {
                 	const nexusbuffer = await getBuffer(ppuser)
-                    const nexustime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-	                const nexusdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
+                    const nexustime = moment.tz('Africa/Nigeria').format('HH:mm:ss')
+	                const nexusdate = moment.tz('Africa/Nigeria').format('DD/MM/YYYY')
                 	let nexusName = num
                     const nexusmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: nexusbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'nexus', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
