@@ -27,16 +27,16 @@ global.socialm = "GitHub: NEXUSAT12" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = ['918130784851'] //ur number
-global.premium = ['918130784851'] //ur premium number
+global.ownernomer = ['2347016282012'] //ur number
+global.premium = ['2347016282012'] //ur premium number
 global.botname = '𓆩⍣⃝☣︎🆇-𝐁𝐎𝐓⃢√𝟐𓆪' //ur bot name
 global.linkz = "https://chat.whatsapp.com/KdCiUuENgOFEYJMHV3jZNj" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@Nexus_1k" //ur website to be displayed
 global.botscript = 'https://github.com/NEXUSAT12/XBOT-MD2' //script link
-global.themeemoji = "🌹" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
+global.themeemoji = "☕" //ur theme emoji
+global.packname = "Sticker By ThE CReATOR" //ur sticker watermark packname
 global.author = "XBOT\n\n\nA whatsapp bot developed by\n☤𝙣𝙚𝙭𝙪𝙨☤\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +91918130784851" //ur sticker watermark author
-global.wm = "☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰." //ur watermark
+global.wm = "☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟CIRE☤꙰." //ur watermark
 // Other
 global.sessionName = 'session'
 global.prefa = ['#']
